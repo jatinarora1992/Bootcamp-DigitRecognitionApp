@@ -1,6 +1,6 @@
 # Digit Recognition Application
 
-test123
+ad
 
 This repository contains the Code and Data Files relevant to our Bootcamp
 Digit Recognition App Project.
